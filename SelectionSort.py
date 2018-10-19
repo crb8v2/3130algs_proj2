@@ -16,29 +16,23 @@ def selectionSort(alist):
        alist[positionOfMax] = temp
 
 
-list = list(range(1, 100))
-list2 = random.sample(range(1, 10000), 9999)
-# list3 = list(range(1, 1000))
-#
-# aa = 0
-# while aa < len(list3):
-#     aa += 1
-#     if (list3[aa] % 10) == 0:
-#         list3[aa] = 0
+list_hundred_sorted = list(range(1, 100))
+list_hundred_random = random.sample(range(1, 100), 99)
+
+list_thousand_sorted = list(range(1, 1000))
+list_thousand_random = random.sample(range(1, 1000), 999)
+
+list_tenthous_sorted = list(range(1, 10000))
+list_tenthous_random = random.sample(range(1, 1000), 9999)
+
 
 start = timer()
-selectionSort(list)
+# insertionSort(list_hundred_sorted)
+# insertionSort(list_hundred_random)
+# insertionSort(list_thousand_random)
+# insertionSort(list_thousand_random)
+# insertionSort(list_tenthous_random)
+# insertionSort(list_tenthous_random)
 end = timer()
+
 print ("    time:",(end - start))
-
-start2 = timer()
-selectionSort(list2)
-end2 = timer()
-print ("    time:",(end2 - start2))
-
-print(list)
-print(list2)
-# print(list3)
-
-# how to graph outputs of each statement
-# how to make an array of 10,000 chars with % 10 positions swapped
