@@ -3,11 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="de5f5b76-46e1-4a61-9efa-66cd97085d85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.~lock.Project2.odt#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BubbleSortWOutSwap.py" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSortWOutSwap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BubbleSortWSwap.py" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSortWSwap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mergesort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mergesort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2.odt" beforeDir="false" afterPath="$PROJECT_DIR$/Project2.odt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Quicksort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quicksort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/SelectionSort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,113 +16,57 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/project2$BubbleSortWOutSwap.coverage" NAME="BubbleSortWOutSwap Coverage Results" MODIFIED="1540248332176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/project2$BubbleSortWSwap.coverage" NAME="BubbleSortWSwap Coverage Results" MODIFIED="1540247112721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/project2$Mergesort.coverage" NAME="Mergesort Coverage Results" MODIFIED="1540248963281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project2$BubbleSortWOutSwap.coverage" NAME="BubbleSortWOutSwap Coverage Results" MODIFIED="1540251944838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project2$BubbleSortWSwap.coverage" NAME="BubbleSortWSwap Coverage Results" MODIFIED="1540251607266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project2$Mergesort.coverage" NAME="Mergesort Coverage Results" MODIFIED="1540254380546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/project2$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1540063373239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/project2$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1540244443906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project2$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1540253912835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project2$Quicksort.coverage" NAME="Quicksort Coverage Results" MODIFIED="1540255180967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1001224299">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1656" />
+          <entry key="py" value="2030" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1656" />
+          <entry key="Python" value="2030" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SelectionSort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#92#112#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InsertionSort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" selection-start-line="20" selection-end-line="58" selection-end-column="40" />
-              <folding>
-                <element signature="e#92#112#0" expanded="true" />
-                <marker date="1540064329782" expanded="true" signature="1164:1225" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BubbleSortWSwap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="60" column="32" lean-forward="true" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BubbleSortWOutSwap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="56" selection-start-line="56" selection-end-line="71" selection-end-column="38" />
-              <folding>
-                <element signature="e#47#67#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Quicksort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="71" selection-start-line="71" selection-end-line="86" selection-end-column="38" />
+            <state relative-caret-position="990">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
               <folding>
                 <element signature="e#64#84#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mergesort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-              <folding>
-                <element signature="e#87#107#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,18 +81,23 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xrange</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SelectionSort.py" />
         <option value="$PROJECT_DIR$/InsertionSort.py" />
+        <option value="$PROJECT_DIR$/SelectionSort.py" />
         <option value="$PROJECT_DIR$/BubbleSortWSwap.py" />
         <option value="$PROJECT_DIR$/BubbleSortWOutSwap.py" />
-        <option value="$PROJECT_DIR$/Quicksort.py" />
         <option value="$PROJECT_DIR$/Mergesort.py" />
+        <option value="$PROJECT_DIR$/Quicksort.py" />
       </list>
     </option>
   </component>
@@ -158,11 +107,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="119" />
-    <option name="y" value="47" />
-    <option name="width" value="1855" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1985" />
+    <option name="y" value="-4" />
+    <option name="width" value="1535" />
+    <option name="height" value="904" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -206,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Mergesort">
+  <component name="RunManager" selected="Python.Quicksort">
     <configuration name="BubbleSortWOutSwap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SelectionSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,7 +257,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SelectionSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quicksort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,19 +267,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.SelectionSort" />
       <item itemvalue="Python.Mergesort" />
       <item itemvalue="Python.BubbleSortWSwap" />
       <item itemvalue="Python.InsertionSort" />
       <item itemvalue="Python.BubbleSortWOutSwap" />
+      <item itemvalue="Python.Quicksort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Quicksort" />
         <item itemvalue="Python.Mergesort" />
+        <item itemvalue="Python.InsertionSort" />
         <item itemvalue="Python.BubbleSortWOutSwap" />
         <item itemvalue="Python.BubbleSortWSwap" />
-        <item itemvalue="Python.InsertionSort" />
-        <item itemvalue="Python.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -348,15 +297,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="119" y="47" width="1855" height="1056" extended-state="0" />
+    <frame x="1985" y="-4" width="1535" height="904" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12437811" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1524513" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21551724" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33247423" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,7 +314,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33054394" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.29144385" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -383,58 +332,58 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SelectionSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="794">
+          <caret line="54" column="15" lean-forward="true" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
           <folding>
             <element signature="e#92#112#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InsertionSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" selection-start-line="20" selection-end-line="58" selection-end-column="40" />
-          <folding>
-            <element signature="e#92#112#0" expanded="true" />
-            <marker date="1540064329782" expanded="true" signature="1164:1225" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BubbleSortWSwap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="60" column="32" lean-forward="true" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+        <state relative-caret-position="347">
+          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BubbleSortWOutSwap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="56" selection-start-line="56" selection-end-line="71" selection-end-column="38" />
+        <state relative-caret-position="332">
+          <caret line="56" selection-start-line="56" selection-start-column="2" selection-end-line="59" selection-end-column="40" />
           <folding>
             <element signature="e#47#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Quicksort.py">
+    <entry file="file://$PROJECT_DIR$/InsertionSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="71" selection-start-line="71" selection-end-line="86" selection-end-column="38" />
+        <state relative-caret-position="-382">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding>
-            <element signature="e#64#84#0" expanded="true" />
+            <element signature="e#92#112#0" expanded="true" />
+            <marker date="1540249153707" expanded="true" signature="1124:1183" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Mergesort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        <state relative-caret-position="1230">
+          <caret line="82" column="15" lean-forward="true" selection-start-line="82" selection-start-column="15" selection-end-line="82" selection-end-column="15" />
           <folding>
             <element signature="e#87#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quicksort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#64#84#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -6,35 +6,29 @@ from timeit import default_timer as timer
 import random
 
 
-def partition(arr, low, high):
-    i = (low - 1)  # index of smaller element
-    pivot = arr[high]  # pivot
-
-    for j in range(low, high):
-
-        # If current element is smaller than or
-        # equal to pivot
-        if arr[j] <= pivot:
-            # increment index of smaller element
-            i = i + 1
-            arr[i], arr[j] = arr[j], arr[i]
-
-    arr[i + 1], arr[high] = arr[high], arr[i + 1]
-    return (i + 1)
+def partition(lst, start, end, pivot):
+    lst[pivot], lst[end] = lst[end], lst[pivot]
+    store_index = start
+    for i in range(start, end):
+        if lst[i] < lst[end]:
+            lst[i], lst[store_index] = lst[store_index], lst[i]
+            store_index += 1
+    lst[store_index], lst[end] = lst[end], lst[store_index]
+    return store_index
 
 
-# Function to do Quick sort
-def quickSort(arr, low, high):
-    if low < high:
-        # pi is partitioning index, arr[p] is now
-        # at right place
-        pi = partition(arr, low, high)
+def quick_sort(lst, start, end):
+    if start >= end:
+        return lst
+    pivot = randrange(start, end + 1)
+    new_pivot = partition(lst, start, end, pivot)
+    quick_sort(lst, start, new_pivot - 1)
+    quick_sort(lst, new_pivot + 1, end)
 
-        # Separately sort elements before
-        # partition and after partition
-        quickSort(arr, low, pi - 1)
-        quickSort(arr, pi + 1, high)
 
+def sort(lst):
+    quick_sort(lst, 0, len(lst) - 1)
+    return lst
 
 list_hundred_sorted = list(range(1, 100))
 list_hundred_random = random.sample(range(1, 100), 99)
@@ -70,6 +64,6 @@ for i in list_tenthous_semiSort:
 
 
 # start = timer()
-# quickSort()
+# sort()
 # end = timer()
 # print ("\n    time: \n",(end - start))

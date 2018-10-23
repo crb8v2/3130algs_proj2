@@ -44,7 +44,7 @@ list_tenthous_sorted = list(range(1, 10000))
 list_tenthous_random = random.sample(range(1, 10000), 9999)
 list_tenthous_semiSort = list(range(1,10000))
 
-randomize every 10th pos of array
+# randomize every 10th pos of array
 for i in list_tenthous_semiSort:
     if i % 10 != 0 and i != 0:
         continue
